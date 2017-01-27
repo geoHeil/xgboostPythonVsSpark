@@ -1,0 +1,6 @@
+*.csv
+Untitled-checkpoint.ipynb
+__pycache__
+project/target
+target
+.ipynb_checkpoints
